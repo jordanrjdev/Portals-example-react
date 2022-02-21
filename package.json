@@ -1,8 +1,12 @@
 {
   "name": "portals-in-react",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "In this post we are going to see what portals are in React.js with a practical example.",
+  "keywords": [
+    "javascript",
+    "portals in react",
+    "react"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "focus-trap-react": "8.9.2",
